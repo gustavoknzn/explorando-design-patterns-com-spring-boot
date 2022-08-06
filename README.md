@@ -29,3 +29,6 @@ Foi desenvolvido uma API RESTful para explorar os design patterns, dos quais for
 - Aguardar o download das depedências 
 - A cada start/restart da aplicação o banco é recriado em memoria (H2).
 - Após a aplicação subir acessar acessar o [Swagger](http://localhost:8080/swagger-ui.html#/)
+
+
+## [Meu LinkedIn](https://www.linkedin.com/in/gustavo-konzen-70373b189/)
